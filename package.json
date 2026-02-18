@@ -1,6 +1,7 @@
 {
   "name": "example-sveltekit",
   "version": "1.0.0",
+  "type": "module",
   "description": "Counter app with SvelteKit — Trapiche example",
   "scripts": {
     "dev": "vite dev",
