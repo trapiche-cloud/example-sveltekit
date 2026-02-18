@@ -1,0 +1,19 @@
+{
+  "name": "example-sveltekit",
+  "version": "1.0.0",
+  "description": "Counter app with SvelteKit — Trapiche example",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "start": "node build"
+  },
+  "dependencies": {
+    "@sveltejs/adapter-node": "^5.2.9",
+    "@sveltejs/kit": "^2.9.0",
+    "svelte": "^5.0.0"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^5.0.0",
+    "vite": "^5.4.10"
+  }
+}
